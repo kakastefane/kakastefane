@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kariston Silva</h1>
 <h3 align="center">Front-End Developer and UI Designer</h3>
 
-- 🔭 I’m currently working on **Agência WEBi**
+- 🔭 I’m currently working on **CheckStore**
 
 - 🌱 I’m currently learning **React, Next, Vue, Nuxt, Unit Tests, E2E Tests**
 
